@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhiramkamini.onrender.com/](https://abhiramkamini.onrender.com/)
 
-- 💬 Ask me about **Tensorflow,Django,AI,Hadoop,Deep learning**
+- 💬 Ask me about **Tensorflow, Django, AI, Hadoop, Deep learning, DSA in Python**
 
 - 📫 How to reach me **kaminiabhiram@yahoo.com**
 
