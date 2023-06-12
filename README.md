@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kaminiabhiram@yahoo.com
 - 😄 Pronouns: He/Him
 
-https://github-profile-trophy.vercel.app/abhiramk6=ryo-ma&margin-w=15
+https://github-profile-trophy.vercel.app/abhiramk6ryo-ma&margin-w=15
 <!-- -->
