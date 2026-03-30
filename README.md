@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm abhiram kamini</h1>
-<h3 align="center">An undergrad student pursuing B-tech in Artificial Intelligence</h3>
+<h1 align="center">Hi, I'm Abhiram Kamini</h1>
+<h3 align="center">AI Engineer | Building Voice AI, Generative AI, and Applied ML Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramk6&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramk6" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhiramk6&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramk6" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiramk6" alt="abhiramk6" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhiramk6" alt="abhiramk6" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [2D to 3D image conversion with GAN](https://github.com/abhiramk6/2dto3d)
+## About Me
 
-- 🌱 I’m currently learning **React Js and Pytorch**
+- AI Engineer focused on Generative AI, Voice AI, LLM systems, and applied Machine Learning
+- Experienced in building real-time AI systems, multi-agent workflows, and speech-based applications
+- Interested in creating AI solutions that improve human efficiency and make technology more intuitive
+- Strong interest in production-grade AI systems, not just demos
+- Enjoy working on systems involving LLMs, RAG, orchestration, speech pipelines, and intelligent automation
 
-- 👯 I’m looking to collaborate on **AI projects**
+## What I Work On
 
-- 👨‍💻 All of my projects are available at [https://abhiramkamini.onrender.com/](https://abhiramkamini.onrender.com/)
+- Real-time voice AI systems
+- Multi-agent and LLM-powered applications
+- Retrieval-augmented generation and contextual AI systems
+- Intelligent automation for real-world workflows
+- Applied machine learning and deep learning solutions
 
-- 💬 Ask me about **Tensorflow, Django, AI, Hadoop, Deep learning, DSA in Python**
+## Currently Exploring
 
-- 📫 How to reach me **kaminiabhiram@yahoo.com**
+- Advanced LLM orchestration, agentic workflows, and evaluation systems
+- PyTorch, deep learning, and production AI architecture
+- Better ways to build low-latency, reliable AI experiences
+
+## Background
+
+- AI Hackathon Winner
+- GATE 95 Percentile
+- Codeforces 3-Star
+- Experience leading teams, driving AI initiatives, and working closely on product-facing solutions
+
+## Open To
+
+- Collaborating on AI, ML, LLM, and voice-based projects
+- Discussions around Generative AI, Deep Learning, TensorFlow, PyTorch, Python, Django, RAG, and AI system design
+
+## Projects & Profiles
+
+- Portfolio: [https://abhiramkamini.onrender.com/](https://abhiramkamini.onrender.com/)
+- Reach me at: **kaminiabhiram@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +58,14 @@
 <a href="https://codeforces.com/profile/abhiramk_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhiramk_6" height="30" width="40" /></a>
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramk6&show_icons=true&locale=en&layout=compact" alt="abhiramk6" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramk6&show_icons=true&locale=en&layout=compact" alt="abhiramk6" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiramk6&show_icons=true&locale=en" alt="abhiramk6" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiramk6&show_icons=true&locale=en" alt="abhiramk6" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramk6&" alt="abhiramk6" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramk6&" alt="abhiramk6" />
+</p>
